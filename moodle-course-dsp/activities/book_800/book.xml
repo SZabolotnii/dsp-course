@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="800" modulename="book" contextid="2209">
+  <book id="2">
+    <name>Література по ЦОС</name>
+    <intro>&lt;p&gt;&lt;a href="https://www.dropbox.com/s/dqrwtd8jtdxwykv/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%91.%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.djvu?dl=0"&gt;https://www.dropbox.com/s/dqrwtd8jtdxwykv/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90.%D0%91.%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.djvu?dl=0&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1633539401</timecreated>
+    <timemodified>1633540127</timemodified>
+    <chapters>
+      <chapter id="1">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Основи та методи цифрової обробки сигналів: від теорії до практики: навч. посібник / уклад. : Ю.О. Ушенко, М.С. Гавриляк, М.В. Талах, В.В. Дворжак. – Чернівці : Чернівецький нац. ун-т ім. Ю. Федьковича, 2021. 308 с</title>
+        <content>&lt;p&gt;(&lt;a href="https://www.dropbox.com/scl/fi/nqfgml8cub1lqslyqvb31/_-_-_-_-_-_.pdf?rlkey=t19al0ciq4bctjwssnca04uym&amp;amp;dl=0"&gt;Посилання&lt;/a&gt;)&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1693726025</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="2">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Голденберг Л.М. Цифровая обработка сигналов</title>
+        <content>&lt;p&gt;&lt;a href="https://www.dropbox.com/s/56u6rlzt6dpxafg/%D0%93%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%20%D0%9B.%D0%9C.%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.djvu?dl=0"&gt;https://www.dropbox.com/s/56u6rlzt6dpxafg/%D0%93%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%20%D0%9B.%D0%9C.%20%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2.djvu?dl=0&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>1</hidden>
+        <timemodified>1633540347</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="3">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Цифрове оброблення сигналів: Посібник для студентів напряму підготовки 6.050901 "Радіотехніка" усіх форм навчання [Текст ; електронний ресурс] / Авт.-укл. С.В.Заболотній / За ред. проф. Ю.Г. Леги ; М-во освіти і науки України, Черкас. держ. технол. ун-т. </title>
+        <content>&lt;p dir="ltr" style="text-align: left;"&gt;(&lt;a href="https://www.dropbox.com/s/korccmqd3incwyj/%D0%97%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%96%D0%B9%20%D0%A1.%D0%92.%20%D0%9F%D0%BE%D1%81%D1%96%D0%B1%D0%BD%D0%B8%D0%BA_%D0%A6%D0%9E%D0%A1.pdf?dl=0"&gt;Посилання&lt;/a&gt;)&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1693726266</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="6">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>The Scientist and Engineer’s Guide to Digital Signal Processing</title>
+        <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;a href="http://www.dspguide.com/pdfbook.htm" target="_blank"&gt;Чудова книга&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;по основам цифрової обробки сигналів (DSP). Мінімум математики, пояснюється суть процесів і причинно-наслідкові зв’язки. Дуже добре підійде для початківців.&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1694931937</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="7">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Лайонс Р. Цифрова обробка сигналів</title>
+        <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;a href="https://www.bsuir.by/m/12_100229_1_85526.pdf" target="_blank"&gt;Класична настільна книга&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;по цифровій обробці сигналів від Лайонса. З прикладним ухилом. Доступно описане дуже широке коло питань!&amp;nbsp;&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1694932184</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="8">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Software Defined Radio using MATLAB® &amp; Simulink®  and the RTL-SDR</title>
+        <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/15XE94bV5o6zh7akulu9cG-ad6fJPFi_L/view?usp=sharing" target="_blank"&gt;Потужна книга&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;по алгоритмам цифрового радіо з прикладами в Matlab для RTL SDR та Ettus USRP. Розглянути багато прикладів практичних задач&lt;br&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1694932337</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

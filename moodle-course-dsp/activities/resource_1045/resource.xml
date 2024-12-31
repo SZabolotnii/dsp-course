@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="495" moduleid="1045" modulename="resource" contextid="2774">
+  <resource id="495">
+    <name>Індивідуальні номери варіантів для виконання лабораторно-практичнних робіт  для гр. 3КІ-23</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Звіти до виконання ЛПР приймаються і зараховуються лише при відповідностів визначеного індивідуального номеру варіанту (згідно наданого викладачем списку)&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1727797168</timemodified>
+  </resource>
+</activity>

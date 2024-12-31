@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="10037" modulename="book" contextid="14874">
+  <book id="9">
+    <name>Методичні рекомендації до виконання лабораторно-практичних робіт (ЦОС)</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://www.dropbox.com/scl/fi/lt2664mz8fyaugutvo3t6/_.pdf?rlkey=e222nymppspiy1oqdqec7hlrq&amp;amp;dl=0" target="_blank"&gt;Методичні рекомендації до виконання лабораторно-практичних робіт ЦОС (2023)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1662977637</timecreated>
+    <timemodified>1695297557</timemodified>
+    <chapters>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

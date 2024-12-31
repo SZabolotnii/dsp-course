@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3652" moduleid="13035" modulename="url" contextid="18741">
+  <url id="3652">
+    <name>Канал зворотнього зв'язку</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Група в Telegram "ЦОС 3КІ23"&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://web.telegram.org/k/#-4558638536</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1729081732</timemodified>
+  </url>
+</activity>

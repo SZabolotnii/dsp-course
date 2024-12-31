@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="900" contextid="2770" version="2022041900">
+  <blockname>html</blockname>
+  <parentcontextid>203</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>4</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6MTp7czoxOiIwIjtiOjA7fQ==</configdata>
+  <timecreated>1662977038</timecreated>
+  <timemodified>1662977038</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

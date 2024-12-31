@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="8333">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>3605</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1664469830</timecreated>
+    <timemodified>1664471097</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="8343">
+    <contenthash>73eef75e06f659190f82a1a8cdfdeddae6c1efdf</contenthash>
+    <contextid>3605</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Анотація (ЦОС).pdf</filename>
+    <userid>47</userid>
+    <filesize>108076</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1664471105</timecreated>
+    <timemodified>1664471118</timemodified>
+    <source>Анотація (ЦОС).pdf</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="8339">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>3606</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1664471076</timecreated>
+    <timemodified>1728293028</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="220507">
+    <contenthash>e5b1d90c8cec0089f9983fd8af41c95cac43131b</contenthash>
+    <contextid>3606</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Силабус_Цифрова обробка сигналів_2024(Заболотній).pdf</filename>
+    <userid>47</userid>
+    <filesize>811428</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1728293040</timecreated>
+    <timemodified>1728293063</timemodified>
+    <source>Силабус_Цифрова обробка сигналів_2024(Заболотній).pdf</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="8345">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>3607</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1664471141</timecreated>
+    <timemodified>1664471205</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="8349">
+    <contenthash>d251be704d829097bb3e8136d3437d0ed496b222</contenthash>
+    <contextid>3607</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Критерії оцінювання(ЦОС).pdf</filename>
+    <userid>47</userid>
+    <filesize>160133</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1664471214</timecreated>
+    <timemodified>1664471224</timemodified>
+    <source>Критерії оцінювання(ЦОС).pdf</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2748">
+    <contenthash>bc1e9c585e1b8e47a2a7d51c1047d0a0138a3fe5</contenthash>
+    <contextid>2205</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Питання на іспит ЦОС.pdf</filename>
+    <userid>47</userid>
+    <filesize>30064</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1634893106</timecreated>
+    <timemodified>1634893130</timemodified>
+    <source>Питання на іспит ЦОС.pdf</source>
+    <author>Сергій Васильович Заболотній</author>
+    <license>allrightsreserved</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2749">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2205</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1662455976</timecreated>
+    <timemodified>1662455976</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2736">
+    <contenthash>8e3b5f8cdeaacc620cc01feeb115abc3fbffb1a0</contenthash>
+    <contextid>2197</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Екзаменаційні білети (ЦОС).pdf</filename>
+    <userid>47</userid>
+    <filesize>263014</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1638954550</timecreated>
+    <timemodified>1638954591</timemodified>
+    <source>Екзаменаційні білети (ЦОС).pdf</source>
+    <author>Сергій Васильович Заболотній</author>
+    <license>allrightsreserved</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2737">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2197</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1662455306</timecreated>
+    <timemodified>1662455306</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2776">
+    <contenthash>a08014a69a35407c0bcb2f58cb93c49daa272682</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>1-Лекція - ПРИНЦИПИ ЦИФРОВОГО ПРЕДСТАВЛЕННЯ ТА ОПРАЦЮВАННЯ СИГНАЛІВ.pdf</filename>
+    <userid>2</userid>
+    <filesize>553955</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458127</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>1-Лекція - ПРИНЦИПИ ЦИФРОВОГО ПРЕДСТАВЛЕННЯ ТА ОПРАЦЮВАННЯ СИГНАЛІВ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2777">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>2</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1662458128</timecreated>
+    <timemodified>1693726637</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2778">
+    <contenthash>b07e1268ab8c3fdad8100a63f38a9386516d7610</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>2-Лекція - МАТЕМАТИЧНИЙ АПАРАТ ПЕРЕТВОРЕНЬ В ЦОС.pdf</filename>
+    <userid>2</userid>
+    <filesize>373280</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458133</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>2-Лекція - МАТЕМАТИЧНИЙ АПАРАТ ПЕРЕТВОРЕНЬ В ЦОС.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2779">
+    <contenthash>c72157c369c96fcae215d295c4233dc8fe7a6c17</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>3-1-Лекція - ЛІНІЙНІ ДИСКРЕТНІ СИСТЕМИ.pdf</filename>
+    <userid>2</userid>
+    <filesize>763804</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458139</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>3-1-Лекція - ЛІНІЙНІ ДИСКРЕТНІ СИСТЕМИ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2780">
+    <contenthash>a32d3e8139de22a5dfc3ea14729d50dc0d1c2777</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>3-Лекція - ЦИФРОВІ МЕТОДИ ПЕРЕТВОРЕННЯ СПЕКТРІВ СИГНАЛІВ.pdf</filename>
+    <userid>2</userid>
+    <filesize>291682</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458146</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>3-Лекція - ЦИФРОВІ МЕТОДИ ПЕРЕТВОРЕННЯ СПЕКТРІВ СИГНАЛІВ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2781">
+    <contenthash>6da607b9b799266827368c9020a8243f1b44d359</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>4-1-Лекція - МЕТОДИ СИНТЕЗУ ЦИФРОВИХ ФІЛЬТРІВ.pdf</filename>
+    <userid>2</userid>
+    <filesize>496133</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458152</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>4-1-Лекція - МЕТОДИ СИНТЕЗУ ЦИФРОВИХ ФІЛЬТРІВ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2782">
+    <contenthash>2f4725c2f213817684e1e53ae189f3cb5e6ac419</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>4-2-Лекція - РОЗРАХУНОК НЕРЕКУРСИВНИХ (КІХ) ФІЛЬТРІВ.pdf</filename>
+    <userid>2</userid>
+    <filesize>984940</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458157</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>4-2-Лекція - РОЗРАХУНОК НЕРЕКУРСИВНИХ (КІХ) ФІЛЬТРІВ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2783">
+    <contenthash>8a45612a7253358ba3588ed0319f4804514b97bd</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>4-3-Лекція - РОЗРАХУНОК РЕКУРСИВНИХ (БІХ) ФІЛЬТРІВ.pdf</filename>
+    <userid>2</userid>
+    <filesize>717423</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458162</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>4-3-Лекція - РОЗРАХУНОК РЕКУРСИВНИХ (БІХ) ФІЛЬТРІВ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2784">
+    <contenthash>1515c37543773729624e617b54a1a7cbd988ff56</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>5-1-Лекція - КВАНТУВАННЯ СИГНАЛІВ В ЦИФРОВИХ СИСТЕМАХ.pdf</filename>
+    <userid>2</userid>
+    <filesize>837206</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458166</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>5-1-Лекція - КВАНТУВАННЯ СИГНАЛІВ В ЦИФРОВИХ СИСТЕМАХ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2785">
+    <contenthash>76b36a69829072b23e9509948052a97f0b482053</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>5-2-Лекція - ЕФЕКТИ КВАНТУВАННЯ В ЦИФРОВИХ СИСТЕМАХ.pdf</filename>
+    <userid>2</userid>
+    <filesize>1030561</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458172</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>5-2-Лекція - ЕФЕКТИ КВАНТУВАННЯ В ЦИФРОВИХ СИСТЕМАХ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2786">
+    <contenthash>122fb83b73afe482db1b6a9ebacfc427b81a35fa</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>6-2-Лекція - СПЕЦІАЛЬНІ ЗАДАЧІ Й ЗАСТОСУВАННЯ ЦИФРОВИХ ФІЛЬТРІВ.pdf</filename>
+    <userid>2</userid>
+    <filesize>206786</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458223</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>6-2-Лекція - СПЕЦІАЛЬНІ ЗАДАЧІ Й ЗАСТОСУВАННЯ ЦИФРОВИХ ФІЛЬТРІВ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2787">
+    <contenthash>eaa36ef517c3c06f5e837441c2f041451b6673d0</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>6-3-Лекція - АДАПТИВНА ЦИФРОВА ФІЛЬТРАЦІЯ.pdf</filename>
+    <userid>2</userid>
+    <filesize>239726</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458228</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>6-3-Лекція - АДАПТИВНА ЦИФРОВА ФІЛЬТРАЦІЯ.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2788">
+    <contenthash>cf917c6fc8568da14536d3b1f0e37fb9f5bb4a49</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>7-1-Лекція - СПОСОБИ РЕАЛІЗАЦІЇ АЛГОРИТМІВ ЦОС.pdf</filename>
+    <userid>2</userid>
+    <filesize>912333</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458234</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>7-1-Лекція - СПОСОБИ РЕАЛІЗАЦІЇ АЛГОРИТМІВ ЦОС.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2789">
+    <contenthash>f4e6d941c4facf7bd862c556cbdeadcc51985c56</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>7-2-Лекція - ОСОБЛИВОСТІ РЕАЛІЗАЦІЇ АЛГОРИТМІВ ЦОС.pdf</filename>
+    <userid>2</userid>
+    <filesize>813963</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1662458240</timecreated>
+    <timemodified>1662458299</timemodified>
+    <source>7-2-Лекція - ОСОБЛИВОСТІ РЕАЛІЗАЦІЇ АЛГОРИТМІВ ЦОС.pdf</source>
+    <author>MOODLE-master Master</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="53213">
+    <contenthash>8e20cc09a37bda7f54f087171487235a8ef94494</contenthash>
+    <contextid>2219</contextid>
+    <component>mod_folder</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>8-Лекція - ЦИФРОВІ СИГНАЛЬНІ ПРОЦЕСОРИ.pdf</filename>
+    <userid>47</userid>
+    <filesize>577985</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1693726644</timecreated>
+    <timemodified>1693726647</timemodified>
+    <source>8-Лекція - ЦИФРОВІ СИГНАЛЬНІ ПРОЦЕСОРИ.pdf</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="4237">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2774</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1662977117</timecreated>
+    <timemodified>1727797098</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="216832">
+    <contenthash>ca1ff4dd638dccc72a36f9a2764db7da1a43fa9f</contenthash>
+    <contextid>2774</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Варіанти_3КІ-23(ЦОС).png</filename>
+    <userid>47</userid>
+    <filesize>29447</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1727797155</timecreated>
+    <timemodified>1727797168</timemodified>
+    <source>Варіанти_3КІ-23(ЦОС).png</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2754">
+    <contenthash>577295d401a3550f84395e85e5cc7693d12b1fce</contenthash>
+    <contextid>2214</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>ЛР1-2.pdf</filename>
+    <userid>47</userid>
+    <filesize>1244435</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1633535119</timecreated>
+    <timemodified>1633535130</timemodified>
+    <source>ЛР1-2.pdf</source>
+    <author>Сергій Васильович Заболотній</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2755">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2214</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1662457305</timecreated>
+    <timemodified>1727875483</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="5568">
+    <contenthash>98a2a2db0995765ccf831c400578055481b4dd30</contenthash>
+    <contextid>3145</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Лабораторна роботи 6 ЦОС.pdf</filename>
+    <userid>47</userid>
+    <filesize>388420</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1663598017</timecreated>
+    <timemodified>1663598048</timemodified>
+    <source>Лабораторна роботи 6 ЦОС.pdf</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="5569">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>3145</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1663598017</timecreated>
+    <timemodified>1727876333</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="5573">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>3148</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1663598198</timecreated>
+    <timemodified>1663598313</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="5577">
+    <contenthash>d54ba61c35f2ffda4d4e767a86437014506768eb</contenthash>
+    <contextid>3148</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>Лабораторні роботи 7 ЦОС.pdf</filename>
+    <userid>47</userid>
+    <filesize>402337</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1663598254</timecreated>
+    <timemodified>1663598258</timemodified>
+    <source>Лабораторні роботи 7 ЦОС.pdf</source>
+    <author>Заболотній Сергій Васильович</author>
+    <license>unknown</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

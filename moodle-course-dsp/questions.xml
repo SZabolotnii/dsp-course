@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="96">
+    <name>top</name>
+    <contextid>203</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>11</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>78.137.2.119+220906090826+YAbsYg</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="97">
+    <name>За замовчуванням для Цифрова обробка сигналів ( КІ-21 )</name>
+    <contextid>203</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>11</contextinstanceid>
+    <info>Категорія за замовчуванням для питань пов’язана з контекстом 'Цифрова обробка сигналів ( КІ-21 )'.</info>
+    <infoformat>0</infoformat>
+    <stamp>78.137.2.119:1919+211006171430+tQ85Ln</stamp>
+    <parent>96</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+</question_categories>

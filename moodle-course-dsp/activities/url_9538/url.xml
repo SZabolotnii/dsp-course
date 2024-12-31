@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2634" moduleid="9538" modulename="url" contextid="13822">
+  <url id="2634">
+    <name>Цифрова обробка сигналів на Python</name>
+    <intro>&lt;p&gt;&lt;strong&gt;&lt;span&gt;&lt;a href="https://github.com/capitanov/dsp-theory" target="_blank"&gt;Набір прикладів&lt;/a&gt;&lt;/span&gt;&amp;nbsp;цифрової обробки сигналів на Python.&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://drive.google.com/drive/folders/1yodZJHYHMM4bDmiwQXt_qhkLh3WWEnSk?usp=sharing</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1725949461</timemodified>
+  </url>
+</activity>

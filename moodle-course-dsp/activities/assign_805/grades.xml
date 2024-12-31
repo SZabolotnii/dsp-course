@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity_gradebook>
+  <grade_items>
+    <grade_item id="155">
+      <categoryid>54</categoryid>
+      <itemname>Лабораторно-практична робота № 4 - СИНТЕЗ ТА АНАЛІЗ ЦИФРОВИХ IIR-ФІЛЬТРІВ</itemname>
+      <itemtype>mod</itemtype>
+      <itemmodule>assign</itemmodule>
+      <iteminstance>54</iteminstance>
+      <itemnumber>0</itemnumber>
+      <iteminfo></iteminfo>
+      <idnumber></idnumber>
+      <calculation>$@NULL@$</calculation>
+      <gradetype>1</gradetype>
+      <grademax>100.00000</grademax>
+      <grademin>0.00000</grademin>
+      <scaleid>$@NULL@$</scaleid>
+      <outcomeid>$@NULL@$</outcomeid>
+      <gradepass>0.00000</gradepass>
+      <multfactor>0.10000</multfactor>
+      <plusfactor>0.00000</plusfactor>
+      <aggregationcoef>0.00000</aggregationcoef>
+      <aggregationcoef2>0.12857</aggregationcoef2>
+      <weightoverride>0</weightoverride>
+      <sortorder>5</sortorder>
+      <display>0</display>
+      <decimals>$@NULL@$</decimals>
+      <hidden>0</hidden>
+      <locked>0</locked>
+      <locktime>0</locktime>
+      <needsupdate>0</needsupdate>
+      <timecreated>1662457365</timecreated>
+      <timemodified>1727876068</timemodified>
+      <grade_grades>
+      </grade_grades>
+    </grade_item>
+  </grade_items>
+  <grade_letters>
+  </grade_letters>
+</activity_gradebook>

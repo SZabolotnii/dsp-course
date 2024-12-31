@@ -1,26 +1,28 @@
 #!/usr/bin/env python3
 """
 Скрипт для міграції курсу з Moodle backup у GitHub репозиторій.
-Версія 0.1
+Версія з організацією контенту
 """
 
 import os
-import sys
 import logging
 from pathlib import Path
 import xml.etree.ElementTree as ET
 import shutil
+import json
+import re
 
 class MoodleMigration:
     def __init__(self, backup_path: str, repo_path: str):
         self.backup_path = Path(backup_path)
         self.repo_path = Path(repo_path)
         self.setup_logging()
+        self.file_mapping = {}
         
     def setup_logging(self):
         """Налаштування логування"""
         logging.basicConfig(
-            level=logging.INFO,
+            level=logging.DEBUG,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
                 logging.StreamHandler(),
@@ -28,8 +30,8 @@ class MoodleMigration:
             ]
         )
         self.logger = logging
-        
-    def create_base_structure(self):
+
+    def create_directory_structure(self):
         """Створення базової структури репозиторію"""
         directories = [
             'course-info',
@@ -40,51 +42,137 @@ class MoodleMigration:
         ]
         
         for dir_name in directories:
-            dir_path = self.repo_path / dir_name
-            dir_path.mkdir(parents=True, exist_ok=True)
-            self.logger.info(f"Created directory: {dir_path}")
+            directory = self.repo_path / dir_name
+            directory.mkdir(parents=True, exist_ok=True)
+            self.logger.info(f"Created directory: {directory}")
+
+    def parse_files_xml(self):
+        """Парсинг files.xml для створення мапінгу файлів"""
+        files_xml = self.backup_path / 'files.xml'
+        if not files_xml.exists():
+            self.logger.error("files.xml not found")
+            return
             
-    def validate_backup(self) -> bool:
-        """Перевірка наявності необхідних файлів бекапу"""
-        required_files = [
-            'moodle_backup.xml',
-            'files.xml',
-            'course/course.xml'
-        ]
+        tree = ET.parse(files_xml)
+        root = tree.getroot()
         
-        for file_name in required_files:
-            if not (self.backup_path / file_name).exists():
-                self.logger.error(f"Required file not found: {file_name}")
-                return False
-        return True
-    
+        for file_elem in root.findall('.//file'):
+            file_id = file_elem.get('id')
+            contenthash = file_elem.find('contenthash').text
+            filename = file_elem.find('filename').text
+            
+            if filename != '.':
+                self.file_mapping[contenthash] = filename
+                self.logger.debug(f"Mapped {contenthash} to {filename}")
+
+    def organize_lecture_files(self):
+        """Організація файлів лекцій"""
+        lectures_dir = self.repo_path / 'lectures'
+        lectures_dir.mkdir(exist_ok=True)
+
+        # Шаблон для пошуку файлів лекцій
+        lecture_pattern = re.compile(r'(\d+)[-].*Лекція.*\.pdf')
+
+        for contenthash, filename in self.file_mapping.items():
+            match = lecture_pattern.match(filename)
+            if match:
+                lecture_num = match.group(1)
+                lecture_dir = lectures_dir / f'lecture_{lecture_num}'
+                lecture_dir.mkdir(exist_ok=True)
+                
+                source = self.backup_path / 'files' / contenthash[:2] / contenthash
+                if source.exists():
+                    destination = lecture_dir / filename
+                    shutil.copy2(source, destination)
+                    self.logger.info(f"Copied lecture: {filename}")
+
+    def organize_lab_files(self):
+        """Організація файлів лабораторних робіт"""
+        labs_dir = self.repo_path / 'labs'
+        labs_dir.mkdir(exist_ok=True)
+
+        # Шаблон для пошуку файлів лабораторних
+        lab_pattern = re.compile(r'(ЛР\d+[-]\d+|Лабораторн[аі] робот[аи] \d+).*\.pdf')
+
+        for contenthash, filename in self.file_mapping.items():
+            if lab_pattern.match(filename):
+                source = self.backup_path / 'files' / contenthash[:2] / contenthash
+                if source.exists():
+                    destination = labs_dir / filename
+                    shutil.copy2(source, destination)
+                    self.logger.info(f"Copied lab: {filename}")
+
+    def organize_course_info(self):
+        """Організація інформації про курс"""
+        info_dir = self.repo_path / 'course-info'
+        info_dir.mkdir(exist_ok=True)
+
+        # Шаблони для пошуку файлів курсу
+        info_patterns = [
+            r'Силабус.*\.pdf',
+            r'Анотація.*\.pdf',
+            r'Критерії оцінювання.*\.pdf'
+        ]
+
+        for contenthash, filename in self.file_mapping.items():
+            if any(re.match(pattern, filename) for pattern in info_patterns):
+                source = self.backup_path / 'files' / contenthash[:2] / contenthash
+                if source.exists():
+                    destination = info_dir / filename
+                    shutil.copy2(source, destination)
+                    self.logger.info(f"Copied course info: {filename}")
+
+    def organize_assessment(self):
+        """Організація матеріалів для оцінювання"""
+        assessment_dir = self.repo_path / 'assessment'
+        assessment_dir.mkdir(exist_ok=True)
+
+        # Шаблони для пошуку файлів оцінювання
+        assessment_patterns = [
+            r'Екзаменаційні білети.*\.pdf',
+            r'Питання на іспит.*\.pdf',
+            r'.*варіанти.*\.(pdf|png)'
+        ]
+
+        for contenthash, filename in self.file_mapping.items():
+            if any(re.match(pattern, filename, re.IGNORECASE) for pattern in assessment_patterns):
+                source = self.backup_path / 'files' / contenthash[:2] / contenthash
+                if source.exists():
+                    destination = assessment_dir / filename
+                    shutil.copy2(source, destination)
+                    self.logger.info(f"Copied assessment: {filename}")
+
     def run(self):
         """Запуск процесу міграції"""
         self.logger.info("Starting migration process...")
         
-        # Перевірка бекапу
-        if not self.validate_backup():
-            self.logger.error("Backup validation failed")
-            return False
+        try:
+            self.create_directory_structure()
+            self.parse_files_xml()
+            self.organize_course_info()
+            self.organize_lecture_files()
+            self.organize_lab_files()
+            self.organize_assessment()
             
-        # Створення структури
-        self.create_base_structure()
-        
-        self.logger.info("Migration completed successfully")
-        return True
+            self.logger.info("Migration completed successfully")
+            return True
+            
+        except Exception as e:
+            self.logger.error(f"Error during migration: {str(e)}")
+            self.logger.debug(traceback.format_exc())
+            return False
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: migrate.py <backup_path> <repo_path>")
-        sys.exit(1)
-        
-    backup_path = sys.argv[1]
-    repo_path = sys.argv[2]
+    backup_path = Path.home() / 'dsp-course' / 'moodle-course-dsp'
+    repo_path = Path.home() / 'dsp-course'
     
     migration = MoodleMigration(backup_path, repo_path)
     success = migration.run()
     
-    sys.exit(0 if success else 1)
+    if success:
+        print("Migration completed successfully!")
+    else:
+        print("Migration failed. Check migration.log for details.")
 
 if __name__ == "__main__":
     main()

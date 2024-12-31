@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2385" moduleid="8468" modulename="url" contextid="11362">
+  <url id="2385">
+    <name>Coursera: Спеціалізація Digital Signal Processing (École Polytechnique Fédérale de Lausanne)</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;This Specialization provides a full course in Digital Signal Processing, with a focus on audio processing and data transmission. You will start from the basic concepts of discrete-time signals and proceed to learn how to analyze data via the Fourier transform, how to manipulate data via digital filters, and how to convert analog signals into digital format.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.coursera.org/specializations/digital-signal-processing</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1693729409</timemodified>
+  </url>
+</activity>
