@@ -1,5 +1,4 @@
 # Virtual environment
-/home/docsa/dsp-course/moodle-course-dsp
 venv/
 ENV/
 .env
@@ -39,3 +38,6 @@ migration.log
 # OS specific
 .DS_Store
 Thumbs.db
+
+# Moodle backup
+moodle-course-dsp/
