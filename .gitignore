@@ -1,14 +1,17 @@
-# Virtual environment
+# Python virtual environment
 venv/
 ENV/
-.env
+env/
+.env/
 
-# Python
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# Distribution / packaging
 build/
 develop-eggs/
 dist/
@@ -25,19 +28,27 @@ wheels/
 .installed.cfg
 *.egg
 
-# Logs
+# Logs and databases
 *.log
+*.sqlite
 migration.log
 
-# IDE
+# IDE specific files
 .idea/
 .vscode/
 *.swp
 *.swo
+.project
+.pydevproject
+.settings/
 
-# OS specific
+# OS specific files
 .DS_Store
 Thumbs.db
+*.bak
+*~
 
-# Moodle backup
+# Moodle backup and temporary files
 moodle-course-dsp/
+backup/
+temp/
